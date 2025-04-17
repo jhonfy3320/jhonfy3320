@@ -16,48 +16,79 @@
 🎯 Enfoque: Desarrollo de software, Alta gerencia y Ciencia de Datos  
 🧠 Mentalidad: Nunca dejo de aprender  
 
-🔭 Actualmente trabajando en proyectos de:
+# 👋 ¡Hola! Soy Jhon Freddy Tavera Blandón
 
-Detección de vehículos con TensorFlow y Computer Vision 🚗
+✨ _Ingeniero en formación apasionado por los datos, el desarrollo y la inteligencia artificial_ ✨
 
-Clasificación de sentimientos en texto con PNL y NLTK 💬
+---
 
-Análisis académico con Pandas y Matplotlib 📊
+## 🚀 Sobre mí
 
-🌱 En constante aprendizaje:
+- 💻 Actualmente estudio **Ingeniería en Informática**, con enfoque en desarrollo de software y alta gerencia.
+- 📊 Me estoy formando como **Científico de Datos** a través de Platzi con cursos en Data Science, Machine Learning y Big Data.
+- 🧠 Fascinado por la IA, visión por computadora, procesamiento de lenguaje natural y redes neuronales.
+- 🔭 Proyecto destacado: **Detección de vehículos en videos de carreteras usando TensorFlow y Computer Vision.**
 
-Big Data y aprendizaje automático con Google Cloud ☁️
+---
 
-Visualización de datos y Storytelling con Tableau 📈
+## 🌱 Actualmente aprendiendo
 
-Redes neuronales con Keras y TensorFlow 🧠
+- 🐍 Python Avanzado (Comprehensions, funciones y errores)
+- 🧮 NumPy y Pandas para Análisis de Datos
+- 📦 Big Data y Machine Learning con Google Cloud
+- 🧠 Redes Neuronales con TensorFlow y Keras
+- 📊 Visualización con Tableau y Storytelling
+- 🗺️ Manejo de Datos Geoespaciales con QGIS
 
-👯 Buscando colaborar en:
+---
 
-Proyectos de análisis de datos del mundo real.
+## 🧩 Habilidades Técnicas
 
-Iniciativas open source educativas y de impacto social
+- **Lenguajes:** Python, SQL, JavaScript  
+- **Librerías:** Pandas, NumPy, Matplotlib, NLTK, TensorFlow, Scikit-learn  
+- **Herramientas:** Git, GitHub, VSCode, Jupyter, PostgreSQL, QGIS  
+- **Flujos de trabajo:** GitHub Projects, Issues, Pull Requests, Workflows con SSH
 
-💬 Pregúntame sobre:
+---
 
-Limpieza de datos, visualización, modelos de predicción, PNL
+## 📫 Contacto
 
-Uso de Git, GitHub y automatización de proyectos
+- 📧 Correo: [jtaverablandon@alumnoeseit.edu.co](mailto:jtaverablandon@alumnoeseit.edu.co)
+- 💼 LinkedIn: [linkedin.com/in/jhon-tavera](https://www.linkedin.com/in/jhon-tavera) *(si tienes LinkedIn, actualízalo aquí)*
+- 💻 Portfolio: [jhonfy3320.github.io](https://jhonfy3320.github.io) *(si lo estás desarrollando)*
 
-🛠️ Idiomas y herramientas
+---
 
-📊 Estadísticas de GitHub
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api
-📫 ¿Cómo contactarme?
-✉️ Correo electrónico: jtaverablandon@alumnoeseit.edu.co
+## ⭐ Badges
 
-💼 LinkedIn: linkedin.com/in/jhonfy3320
+![GitHub Followers](https://img.shields.io/github/followers/jhonfy3320?style=social)
+![Top Language](https://img.shields.io/github/languages/top/jhonfy3320?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=jhonfy3320&color=blue)
 
-💻 Portafolio (en desarrollo): próximamente…
+---
 
-⚡ Dato curioso
-Mi superpoder: convertir datos desordenados en historias valiosas con impacto.
-Mi meta: nunca dejar de aprender y crecer un 1% cada día. 🌱
+## 📌 Recomendaciones para trabajar este README en VS Code
 
-🎯 Frase motivacional para ingenieros de datos:
-"El mejor científico de datos no es quien más sabe, sino quien nunca deja de aprender." 🚀
+### 👁 Vista previa
+- Haz clic derecho en el archivo `README.md` > **Open Preview**  
+  o presiona `Ctrl+Shift+V` para ver el archivo renderizado como en GitHub.
+
+### 🧹 Limpieza con extensión Markdown Lint
+- Instala la extensión `MarkdownLint` desde el Marketplace.
+- Te sugiere buenas prácticas como:
+  - Eliminar espacios innecesarios
+  - Usar títulos consistentes
+  - Evitar líneas vacías extra
+- Accesos rápidos:
+  - Formato limpio: `Ctrl+Shift+P` → `Format Document`
+
+---
+
+## 🎯 Objetivo profesional
+
+Mi meta es contribuir a proyectos que utilicen la ciencia de datos, la inteligencia artificial y el desarrollo web para resolver problemas reales, optimizar procesos y tomar decisiones basadas en datos. Estoy en constante evolución 🚀
+
+---
+
+### ¡Gracias por visitar mi perfil! ⭐  
+_Construyamos juntos soluciones con impacto real._
