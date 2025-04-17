@@ -113,3 +113,17 @@ Mi meta es contribuir a proyectos que utilicen la ciencia de datos, la inteligen
 
 ### ¡Gracias por visitar mi perfil! ⭐  
 _Construyamos juntos soluciones con impacto real._
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonfy3320&show_icons=true&theme=radical&hide_title=false" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonfy3320&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonfy3320&theme=radical" alt="GitHub Streak" />
+</p>
