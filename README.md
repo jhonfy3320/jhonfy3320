@@ -8,9 +8,9 @@
 
 ---
 
-### 🌟 Sobre mí
+### 🌟 INTRO
 
-```yaml
+---
 📍 Desde: Colombia 🇨🇴  
 🎓 Carrera: Ingeniería en Informática  
 🎯 Enfoque: Desarrollo de software, Alta gerencia y Ciencia de Datos  
