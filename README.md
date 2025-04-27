@@ -61,9 +61,9 @@
 
 ### Recent Activity
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ## ⭐ Badges
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fjhonfy3320)
