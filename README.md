@@ -59,6 +59,12 @@
 
 ---
 
+### Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## ⭐ Badges
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fjhonfy3320)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jhonfy3320/C-GitGitHubENAFY)
