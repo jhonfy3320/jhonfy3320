@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="Vibrant Data Science Logo Design (1).png" alt="ENAMSKFYPy Logo" width="300"/>
+</p>
 
 **jhonfy3320/jhonfy3320** 
 
@@ -21,7 +22,9 @@
 ✨ _Ingeniero en formación apasionado por los datos, el desarrollo y la inteligencia artificial_ ✨
 
 ---
-
+<p align="center">
+  <img src="Data Scientist Logo with Gradient Colors.png" alt="ENAMSKFYPy Logo" width="300"/>
+</p>
 ## 🚀 Sobre mí
 
 - 💻 Actualmente estudio **Ingeniería en Informática**, con enfoque en desarrollo de software y alta gerencia.
@@ -48,6 +51,18 @@
 - **Librerías:** Pandas, NumPy, Matplotlib, NLTK, TensorFlow, Scikit-learn  
 - **Herramientas:** Git, GitHub, VSCode, Jupyter, PostgreSQL, QGIS  
 - **Flujos de trabajo:** GitHub Projects, Issues, Pull Requests, Workflows con SSH
+
+---
+---
+
+## 📂 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| `Clasificador de Tumores` | Red neuronal convolucional con InceptionV3 y MobileNetV2 para clasificar imágenes médicas. | Python, TensorFlow, Keras |
+| `Detección de Vehículos en Carreteras` | Detección en tiempo real de carros y motos usando visión por computador. | OpenCV, TensorFlow |
+| `Análisis de Abandono Escolar` | Exploración y predicción del éxito académico en estudiantes. | Pandas, Matplotlib, Scikit-Learn |
+| `Clasificador de Sentimientos` | Análisis de sentimiento en reseñas con NLP. | NLTK, Scikit-Learn |
 
 ---
 
