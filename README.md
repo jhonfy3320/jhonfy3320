@@ -1,85 +1,82 @@
 <p align="center">
-  <img src="Vibrant Data Science Logo Design (1).png" alt="ENAMSKFYPy Logo" width="300"/>
+  <img src="Vibrant Data Science Logo Design (1).png" 
+       alt="Logo ENAMSKFYPy" 
+       width="60%" />
 </p>
 
-**jhonfy3320/jhonfy3320** 
 
-<h1 align="center">Hola, soy Jhon Freddy 👨‍💻</h1>
-<p align="center">🚀 Científico de Datos en formación | 💡 Apasionado por el aprendizaje continuo</p>
-
----
-
-### 🌟 INTRO
-
----
-📍 Desde: Colombia 🇨🇴  
-🎓 Carrera: Ingeniería en Informática  
-🎯 Enfoque: Desarrollo de software, Alta gerencia y Ciencia de Datos  
-🧠 Mentalidad: Nunca dejo de aprender  
-
-# 👋 ¡Hola! Soy Jhon Freddy Tavera Blandón
-
-✨ _Ingeniero en formación apasionado por los datos, el desarrollo y la inteligencia artificial_ ✨
-
----
+<h1 align="center">👋 Hola, soy Jhon Freddy Tavera Blandón</h1>
 <p align="center">
-  <img src="Data Scientist Logo with Gradient Colors.png" alt="ENAMSKFYPy Logo" width="300"/>
+  🚀 Científico de Datos en formación &nbsp;|&nbsp; 👨‍💻 Ingeniería en Informática &nbsp;|&nbsp; 💡 Apasionado por el aprendizaje continuo
 </p>
+
+---
+
+## 🌟 Intro
+
+📍 Desde: **Colombia 🇨🇴**  
+🎓 Carrera: **Ingeniería en Informática**  
+🎯 Enfoque: **Desarrollo de software, Alta gerencia y Ciencia de Datos**  
+🧠 Mentalidad: **Nunca dejo de aprender**
+
+✨ _Ingeniero en formación apasionado por los datos, el desarrollo y la inteligencia artificial._ ✨
+
+---
+
+<p align="center">
+  <img src="Data Scientist Logo with Gradient Colors.png" alt="Logo Data Scientist" width="380" />
+</p>
+
 ## 🚀 Sobre mí
 
-- 💻 Actualmente estudio **Ingeniería en Informática**, con enfoque en desarrollo de software y alta gerencia.
-- 📊 Me estoy formando como **Científico de Datos** a través de Platzi con cursos en Data Science, Machine Learning y Big Data.
-- 🧠 Fascinado por la IA, visión por computadora, procesamiento de lenguaje natural y redes neuronales.
+- 💻 Estudio **Ingeniería en Informática**, con enfoque en desarrollo de software y alta gerencia.  
+- 📊 Me estoy formando como **Científico de Datos** con cursos en Data Science, Machine Learning y Big Data.  
+- 🧠 Me apasionan la **IA**, la visión por computadora, el procesamiento de lenguaje natural y las redes neuronales.  
 - 🔭 Proyecto destacado: **Detección de vehículos en videos de carreteras usando TensorFlow y Computer Vision.**
 
 ---
 
 ## 🌱 Actualmente aprendiendo
 
-- 🐍 Python Avanzado (Comprehensions, funciones y errores)
-- 🧮 NumPy y Pandas para Análisis de Datos
-- 📦 Big Data y Machine Learning con Google Cloud
-- 🧠 Redes Neuronales con TensorFlow y Keras
-- 📊 Visualización con Tableau y Storytelling
-- 🗺️ Manejo de Datos Geoespaciales con QGIS
+- 🐍 Python avanzado (comprehensions, funciones, manejo de errores)  
+- 🧮 NumPy y Pandas para análisis de datos  
+- ☁️ Big Data y Machine Learning con Google Cloud  
+- 🧠 Redes neuronales con TensorFlow y Keras  
+- 📊 Visualización de datos con Tableau y storytelling  
+- 🗺️ Manejo de datos geoespaciales con QGIS  
 
 ---
 
 ## 🧩 Habilidades Técnicas
 
 - **Lenguajes:** Python, SQL, JavaScript  
-- **Librerías:** Pandas, NumPy, Matplotlib, NLTK, TensorFlow, Scikit-learn  
-- **Herramientas:** Git, GitHub, VSCode, Jupyter, PostgreSQL, QGIS  
+- **Librerías:** Pandas, NumPy, Matplotlib, Seaborn, NLTK, TensorFlow, Scikit-learn  
+- **Herramientas:** Git, GitHub, VS Code, Jupyter, PostgreSQL, QGIS, Google Colab  
 - **Flujos de trabajo:** GitHub Projects, Issues, Pull Requests, Workflows con SSH
 
----
 ---
 
 ## 📂 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| `Clasificador de Tumores` | Red neuronal convolucional con InceptionV3 y MobileNetV2 para clasificar imágenes médicas. | Python, TensorFlow, Keras |
-| `Detección de Vehículos en Carreteras` | Detección en tiempo real de carros y motos usando visión por computador. | OpenCV, TensorFlow |
-| `Análisis de Abandono Escolar` | Exploración y predicción del éxito académico en estudiantes. | Pandas, Matplotlib, Scikit-Learn |
-| `Clasificador de Sentimientos` | Análisis de sentimiento en reseñas con NLP. | NLTK, Scikit-Learn |
+| Proyecto                               | Descripción                                                                 | Tecnologías                     |
+|----------------------------------------|-----------------------------------------------------------------------------|---------------------------------|
+| `Clasificador de Tumores`              | Red neuronal convolucional con InceptionV3 y MobileNetV2 para imágenes médicas. | Python, TensorFlow, Keras       |
+| `Detección de Vehículos en Carreteras` | Detección en tiempo real de carros y motos usando visión por computador.    | OpenCV, TensorFlow              |
+| `Análisis de Abandono Escolar`         | Exploración y predicción del éxito académico en estudiantes.                | Pandas, Matplotlib, Scikit-Learn |
+| `Clasificador de Sentimientos`         | Análisis de sentimiento en reseñas con NLP.                                 | NLTK, Scikit-Learn              |
 
 ---
 
 ## 📫 Contacto
 
-- 📧 Correo: [jtaverablandon@alumnoeseit.edu.co](mailto:jtaverablandon@alumnoeseit.edu.co)
-- 💼 LinkedIn: [linkedin.com/in/jhon-tavera](https://www.linkedin.com/in/jhon-tavera) *(si tienes LinkedIn, actualízalo aquí)*
-- 💻 Portfolio: [jhonfy3320.github.io](https://jhonfy3320.github.io) *(si lo estás desarrollando)*
+- 📧 Correo: **[jtaverablandon@alumnoeseit.edu.co](mailto:jtaverablandon@alumnoeseit.edu.co)**  
+- 💼 LinkedIn: **[linkedin.com/in/jhon-tavera](https://www.linkedin.com/in/jhon-tavera)**  
+- 💻 Portfolio: **[jhonfy3320.github.io](https://jhonfy3320.github.io)**  
 
 ---
 
-### 📌 Actividad reciente
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 ## ⭐ Badges
+
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fjhonfy3320)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jhonfy3320/C-GitGitHubENAFY)
 
@@ -108,20 +105,25 @@
 
 ---
 
-## 📌 Recomendaciones para trabajar este README en VS Code
+## 📊 GitHub Stats
 
-### 👁 Vista previa
-- Haz clic derecho en el archivo `README.md` > **Open Preview**  
-  o presiona `Ctrl+Shift+V` para ver el archivo renderizado como en GitHub.
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jhonfy3320&show_icons=true&theme=radical&hide_title=false&card_width=500" 
+    alt="GitHub Stats" 
+  />
+</p>
 
-### 🧹 Limpieza con extensión Markdown Lint
-- Instala la extensión `MarkdownLint` desde el Marketplace.
-- Te sugiere buenas prácticas como:
-  - Eliminar espacios innecesarios
-  - Usar títulos consistentes
-  - Evitar líneas vacías extra
-- Accesos rápidos:
-  - Formato limpio: `Ctrl+Shift+P` → `Format Document`
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonfy3320&layout=compact&theme=radical&card_width=400" 
+    alt="Top Langs" 
+  />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonfy3320&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -131,19 +133,5 @@ Mi meta es contribuir a proyectos que utilicen la ciencia de datos, la inteligen
 
 ---
 
-### ¡Gracias por visitar mi perfil! ⭐  
+### 🙌 ¡Gracias por visitar mi perfil!
 _Construyamos juntos soluciones con impacto real._
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonfy3320&show_icons=true&theme=radical&hide_title=false" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonfy3320&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonfy3320&theme=radical" alt="GitHub Streak" />
-</p>
